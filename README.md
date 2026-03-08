@@ -133,12 +133,10 @@ These metrics help measure how effectively the models classify accident severity
 
 <p>
 <b>Muhammed Raihan</b><br>
-BSc Computer Science – Artificial Intelligence & Big Data<br>
-University of Wollongong in Dubai
+Computer Science Graduate – Artificial Intelligence & Big Data<br>
 </p>
 
 <div class="footer">
-Machine Learning Project | Traffic Data Analysis
 </div>
 
 </div>
